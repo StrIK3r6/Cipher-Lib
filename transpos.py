@@ -31,7 +31,7 @@ def Railfence():
         print(ctext)
 
     final_text=[ctext[i:i+5] for i in range(0,initial_len,5)]
-    final.strip('[').strip(']').strip("'")
+    final_text=''.join(final_text)
     print(final_text)
 
 if __name__=='__main__':    
