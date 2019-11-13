@@ -32,7 +32,7 @@ def transpose():
         i=0
         j+=1
    
-    ''.join(ctext)
+    ctext=''.join(ctext)
     print(ctext)
 
 if __name__=='__main__':
