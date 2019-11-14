@@ -34,4 +34,4 @@ if __name__=='__main__':
    
     cipher_text=input("Enter text to be decrypted: ")
     key=int(input("Enter the key: "))
-    decrypt(key,message)
+    decrypt(key,cipher_text)
