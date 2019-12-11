@@ -1,2 +1,2 @@
 # Cipher-Lib
-A COLLECTION OF BASIC CIPHERS AND THEIR BRUTE FORCING SCRIPTS THAT I HAVE WRITTEN AS A BEGINER IN CRYPTOGRAPHY
+A collection of basic ciphers and their brute-forcing scripts that i have written as an ameatuer in cryptogrphy.
